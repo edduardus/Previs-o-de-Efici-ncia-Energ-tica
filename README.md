@@ -1,2 +1,3 @@
 # Previsao-de-Eficiencia-Energetica
-Utilização de XGBoost para Regressão
+Projeto realizado par participação da Competição DSA de Machine Learning - Edição Fevereiro/2019
+
